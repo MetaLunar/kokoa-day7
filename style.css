@@ -1,5 +1,13 @@
 @import "status_bar.css";
+/* music list*/
+@import "music_list.css";
+
+/* music title*/
+@import "music_title.css";
 
 body {
-  box-shadow: #dfe4ea;
+  background-color: rgba(230, 223, 223, 0.904);
+  display: flex;
+  justify-content: center;
+  margin-top: 70px;
 }

@@ -6,6 +6,8 @@
 @import "music_title.css";
 
 body {
+  width: 150vh;
+  height: 50vh;
   background-color: rgba(230, 223, 223, 0.904);
   display: flex;
   justify-content: center;
